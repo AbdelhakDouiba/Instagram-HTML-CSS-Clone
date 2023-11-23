@@ -216,11 +216,11 @@
             padding-left: 143px;
             padding-right: 70px;   
         }
-        .width-1-none{
-            display: none;
-        }
     }
 
+    .width-1-none{
+        display: none;
+    }
 
     @media (min-height: 700.1px){
         .threads-div{
